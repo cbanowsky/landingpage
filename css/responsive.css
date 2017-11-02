@@ -1,0 +1,239 @@
+/* Tablet Layout: 768px. */
+
+@media only screen and  (max-width: 767px) {
+	.right-parts img{
+		margin: 0 auto;
+	}
+	.left-part img{
+	margin: 0 auto;
+	}
+	.right-content-parts{
+		text-align:center;
+	}
+	.left-part h3{
+	text-align:center;
+	}
+	.right-parts h4{
+		text-align:center;
+	}
+	.right-content-parts{
+ margin-top: 10px;
+}
+.social_icon h4{
+	text-align:center;
+}
+.social_icon {
+	text-align:center;
+	margin:0 auto;
+}
+.right-parts h3 {
+    color: #1A1F2C;
+    font-weight: bold;
+    margin-top: 27px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.left_socials {
+	text-align:center;
+	margin:0 auto;
+}
+.right_social p{
+	text-align:center;
+}
+.mine{
+margin-left:5px;
+}
+.left_part img{
+	margin:0 auto;
+}
+
+.commons{
+	padding-left:0px;
+	padding-right:0px;
+}
+.r_common{
+	padding-right:0px;
+	padding-left:0px;
+}
+.background_part_t{
+	background: url(../img/tbg.html) no-repeat center center;
+    background-size: cover;
+	padding-top:4px;
+	padding-bottom:40px;
+	overflow:hidden;
+}
+.right_part p{
+text-align:center;
+}
+.flag{
+	text-align:center;
+	margin-top:-7px;
+}
+
+.navbar-nav > li {
+
+    margin-top: 4px;
+}
+.navbar-collapse.in {
+    overflow-y: none!important;
+}
+.inner_salexpo h3 {
+    font-weight: bold;
+    font-size: 20px;
+	color:#fff;
+	padding-top:6px;
+}
+.inner_salexpo h1{
+	font-weight:bold;
+	padding-bottom:5px;
+	padding-top:3px;
+	font-size:25px;
+	color:#fff;
+}
+.inner_salexpo h4{
+	font-size:18px;
+	font-family: 'Open Sans', sans-serif;
+	color:#fff;
+}
+.instant_access_btn{
+	width:100%;
+	background:#008CFF;
+	font-size:25px;
+	color:#fff;
+	padding:16px 20px;
+	border:none;
+	outline:0;
+	font-family: 'Open Sans', sans-serif;
+	 border-radius: 4px;
+}
+.office{
+	font-size:12px;
+}
+.middle_menu{
+	text-align:center;
+}
+
+.right_contact{
+	text-align:center;
+
+}
+
+.left_bk_side_t h1{
+	font-size:30px;
+	font-weight:800;
+}
+
+.left_bk_side_t p{
+	font-size:17px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.left_bk_side_t{
+	margin-top:10px;
+}
+
+.background-part{
+	background:url(../img/bg.jpg) no-repeat center center ;
+	background-size:cover;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.left_bk_side h1 {
+    color: #fff;
+    font-weight: 800;
+    padding-bottom: 12px;
+    font-size: 35px;
+    line-height: 40px;
+	text-align:center;
+}
+
+.left_bk_side p{
+text-align:center;
+}
+
+.left_bk_side h4{
+text-align:center;
+}
+
+.left_bk_side h3{
+text-align:center;
+}
+
+.right_part h3 {
+    text-align: center;
+    /* margin-top: 5px; */
+    /* font-family: 'Open Sans', sans-serif; */
+    color: #000;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.right-content-parts h3 {
+    font-size: 30px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 33px;
+}
+
+.right-content-parts p {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    /* line-height: 35px; */
+    padding-top: 15px;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+.right-content-parts h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.for_marginss{
+	margin-top:10px;
+
+
+}
+
+
+.btn {
+    display: inline-block;
+    padding: 7px 10px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: red;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 36px;
+    padding: 6px 7px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+}
